@@ -1,0 +1,566 @@
+[
+  {
+    "id": "app-1790104545962-qi4pl",
+    "jobId": "custom-1790092125978",
+    "jobTitle": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "candidate": {
+      "name": "Shravankumar Patel",
+      "email": "shravan.b.patel80@gmail.com",
+      "phone": "+918104479942",
+      "portfolio": "https://www.linkedin.com/in/shravan-kumar-patel/details/skills/",
+      "estimatedYears": 2,
+      "skills": [
+        "Selenium",
+        "Postman",
+        "Manual Testing",
+        "Automation Testing",
+        "Regression Testing",
+        "Smoke Testing",
+        "Sanity Testing",
+        "API Testing",
+        "Test Cases",
+        "SDLC",
+        "STLC",
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Java",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "MySQL",
+        "MongoDB",
+        "Machine Learning",
+        "NLP",
+        "Git",
+        "GitHub",
+        "Agile",
+        "Scrum",
+        "CI/CD Pipelines"
+      ],
+      "education": [
+        "Bachelor of Science / BCA",
+        "Master of Computer Applications (MCA)"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 72,
+      "recommendation": "Good Match (Shortlist)",
+      "badgeColor": "blue",
+      "scoreBreakdown": {
+        "skillsScore": 87,
+        "experienceScore": 50,
+        "keywordScore": 60
+      },
+      "matchedSkills": [
+        "Selenium",
+        "Java",
+        "API Testing",
+        "Postman",
+        "CI/CD"
+      ],
+      "missingSkills": [
+        "TestNG"
+      ],
+      "interviewQuestions": [
+        "Can you describe how you applied Selenium in your recent projects and how you optimized test/code performance?",
+        "What best practices do you follow when collaborating with cross-functional teams using Java?",
+        "This role requires hands-on experience with TestNG. How do you plan to quickly adapt and deliver in this area?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/custom-1790092125978/1790104545234-Shravankumar-Patel-QA-Resume.docx",
+    "filename": "Shravankumar-Patel-QA-Resume.docx",
+    "size": 12349,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/custom-1790092125978/1790104545234-Shravankumar-Patel-QA-Resume.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T191545Z&X-Amz-Expires=86400&X-Amz-Signature=2c11f69e4e818331f35e41d2d5f3b7236da690dddeadda0ab27d1d53de435d0e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T19:15:45.963Z",
+    "notes": ""
+  },
+  {
+    "id": "app-1790103722099-tjvu6",
+    "jobId": "data-analyst-ml",
+    "jobTitle": "Data Analyst & ML Specialist",
+    "department": "Data & Analytics",
+    "candidate": {
+      "name": "Shravankumar Patel",
+      "email": "shravan.b.patel80@gmail.com",
+      "phone": "+918104479942",
+      "portfolio": "https://www.linkedin.com/in/shravan-kumar-patel/details/skills/",
+      "estimatedYears": 2,
+      "skills": [
+        "Selenium",
+        "Postman",
+        "Manual Testing",
+        "Automation Testing",
+        "Regression Testing",
+        "Smoke Testing",
+        "Sanity Testing",
+        "API Testing",
+        "Test Cases",
+        "SDLC",
+        "STLC",
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Java",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "MySQL",
+        "MongoDB",
+        "Machine Learning",
+        "NLP",
+        "Git",
+        "GitHub",
+        "Agile",
+        "Scrum",
+        "CI/CD Pipelines"
+      ],
+      "education": [
+        "Bachelor of Science / BCA",
+        "Master of Computer Applications (MCA)"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 50,
+      "recommendation": "Moderate Fit (Consider)",
+      "badgeColor": "amber",
+      "scoreBreakdown": {
+        "skillsScore": 30,
+        "experienceScore": 100,
+        "keywordScore": 40
+      },
+      "matchedSkills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+      ],
+      "missingSkills": [
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Tableau",
+        "Scikit-Learn"
+      ],
+      "interviewQuestions": [
+        "Can you describe how you applied Python in your recent projects and how you optimized test/code performance?",
+        "What best practices do you follow when collaborating with cross-functional teams using SQL?",
+        "This role requires hands-on experience with Pandas. How do you plan to quickly adapt and deliver in this area?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/data-analyst-ml/1790103721381-Shravankumar-Patel-QA-Resume.docx",
+    "filename": "Shravankumar-Patel-QA-Resume.docx",
+    "size": 12349,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/data-analyst-ml/1790103721381-Shravankumar-Patel-QA-Resume.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T190201Z&X-Amz-Expires=86400&X-Amz-Signature=44e262c7e76849640f5de89a4375372219d40989a3e684a93585f07832202658&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T19:02:02.099Z",
+    "notes": ""
+  },
+  {
+    "id": "app-1790103592097-fxopm",
+    "jobId": "custom-1790092125978",
+    "jobTitle": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "candidate": {
+      "name": "Shravankumar Patel",
+      "email": "shravan.b.patel80@gmail.com",
+      "phone": "+918104479942",
+      "portfolio": "https://www.linkedin.com/in/shravan-kumar-patel/details/skills/",
+      "estimatedYears": 2,
+      "skills": [
+        "React",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Go",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Git",
+        "GitHub"
+      ],
+      "education": [
+        "Bachelor of Science / BCA",
+        "Master of Computer Applications (MCA)"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 31,
+      "recommendation": "Low Fit",
+      "badgeColor": "red",
+      "scoreBreakdown": {
+        "skillsScore": 33,
+        "experienceScore": 50,
+        "keywordScore": 0
+      },
+      "matchedSkills": [
+        "CI/CD"
+      ],
+      "missingSkills": [
+        "Selenium",
+        "Java",
+        "TestNG",
+        "API Testing",
+        "Postman"
+      ],
+      "interviewQuestions": [
+        "Can you describe how you applied CI/CD in your recent projects and how you optimized test/code performance?",
+        "This role requires hands-on experience with Selenium. How do you plan to quickly adapt and deliver in this area?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/custom-1790092125978/1790103591173-Shravankumar_Patel_Hibiscustech.docx",
+    "filename": "Shravankumar_Patel_Hibiscustech.docx",
+    "size": 11411,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/custom-1790092125978/1790103591173-Shravankumar_Patel_Hibiscustech.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T185951Z&X-Amz-Expires=86400&X-Amz-Signature=55a3436b6a9678fa609bfad84e80436e9388c57c19a12c9201350d02ea255927&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T18:59:52.097Z",
+    "notes": ""
+  },
+  {
+    "id": "app-1790103230256-u2eqa",
+    "jobId": "custom-1790092125978",
+    "jobTitle": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "candidate": {
+      "name": "Shravankumar Patel",
+      "email": "shravan.b.patel80@gmail.com",
+      "phone": "+918104479942",
+      "portfolio": "https://www.linkedin.com/in/shravan-kumar-patel/details/skills/",
+      "estimatedYears": 2,
+      "skills": [
+        "C#",
+        "Go",
+        "PHP",
+        "S3",
+        "EC2",
+        "IAM",
+        "ECS",
+        "EKS",
+        "SQL",
+        "NLP",
+        "Git",
+        "GitHub"
+      ],
+      "education": [
+        "Bachelor of Technology (B.Tech)",
+        "Master of Technology (M.Tech)",
+        "Bachelor of Science / BCA",
+        "Master of Computer Applications (MCA)",
+        "Master / MBA"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 24,
+      "recommendation": "Low Fit",
+      "badgeColor": "red",
+      "scoreBreakdown": {
+        "skillsScore": 20,
+        "experienceScore": 50,
+        "keywordScore": 0
+      },
+      "matchedSkills": [],
+      "missingSkills": [
+        "Selenium",
+        "Java",
+        "TestNG",
+        "API Testing",
+        "Postman",
+        "CI/CD"
+      ],
+      "interviewQuestions": [
+        "This role requires hands-on experience with Selenium. How do you plan to quickly adapt and deliver in this area?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/custom-1790092125978/1790103225855-Shravankumar-patel.pdf",
+    "filename": "Shravankumar-patel.pdf",
+    "size": 4138868,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/custom-1790092125978/1790103225855-Shravankumar-patel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T185349Z&X-Amz-Expires=86400&X-Amz-Signature=e5873dc54efb38d52f2a43e2c1a61b6ef9eb9b1932813078f9792f93847d015b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T18:53:50.256Z",
+    "notes": ""
+  },
+  {
+    "id": "app-1790102713682-cyf5l",
+    "jobId": "custom-1790092125978",
+    "jobTitle": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "candidate": {
+      "name": "Shravankumar Patel",
+      "email": "shravan.b.patel80@gmail.com",
+      "phone": "+918104479942",
+      "portfolio": "https://www.linkedin.com/in/shravan-kumar-patel/details/skills/",
+      "estimatedYears": 2,
+      "skills": [
+        "React",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Go",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Git",
+        "GitHub"
+      ],
+      "education": [
+        "Bachelor of Science / BCA",
+        "Master of Computer Applications (MCA)"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 31,
+      "recommendation": "Low Fit",
+      "badgeColor": "red",
+      "scoreBreakdown": {
+        "skillsScore": 33,
+        "experienceScore": 50,
+        "keywordScore": 0
+      },
+      "matchedSkills": [
+        "CI/CD"
+      ],
+      "missingSkills": [
+        "Selenium",
+        "Java",
+        "TestNG",
+        "API Testing",
+        "Postman"
+      ],
+      "interviewQuestions": [
+        "Can you describe how you applied CI/CD in your recent projects and how you optimized test/code performance?",
+        "This role requires hands-on experience with Selenium. How do you plan to quickly adapt and deliver in this area?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/custom-1790092125978/1790102712947-Shravankumar_Patel_Hibiscustech.docx",
+    "filename": "Shravankumar_Patel_Hibiscustech.docx",
+    "size": 11411,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/custom-1790092125978/1790102712947-Shravankumar_Patel_Hibiscustech.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T184513Z&X-Amz-Expires=86400&X-Amz-Signature=fe83ecc02a2d0139a42b7ee08db546c1139d12f95dcba5e4ec80ab1fef9ae1a4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T18:45:13.682Z",
+    "notes": ""
+  },
+  {
+    "id": "app-1790101171676-f7s4y",
+    "jobId": "custom-1790092125978",
+    "jobTitle": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "candidate": {
+      "name": "Shravankumar_Patel_Hibiscustech",
+      "email": "shravan.b.patel954@gmail.com",
+      "phone": "+91 8104479942",
+      "portfolio": "linkedin.com/in/shravan-kumar-patel",
+      "estimatedYears": 4,
+      "skills": [
+        "React",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Go",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Git",
+        "GitHub"
+      ],
+      "education": [
+        "Bachelor of Science / BCA",
+        "Master of Computer Applications (MCA)"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 43,
+      "recommendation": "Low Fit",
+      "badgeColor": "red",
+      "scoreBreakdown": {
+        "skillsScore": 33,
+        "experienceScore": 100,
+        "keywordScore": 0
+      },
+      "matchedSkills": [
+        "CI/CD"
+      ],
+      "missingSkills": [
+        "Selenium",
+        "Java",
+        "TestNG",
+        "API Testing",
+        "Postman"
+      ],
+      "interviewQuestions": [
+        "Can you describe how you applied CI/CD in your recent projects and how you optimized test/code performance?",
+        "This role requires hands-on experience with Selenium. How do you plan to quickly adapt and deliver in this area?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/custom-1790092125978/1790101170472-Shravankumar_Patel_Hibiscustech.docx",
+    "filename": "Shravankumar_Patel_Hibiscustech.docx",
+    "size": 11411,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/custom-1790092125978/1790101170472-Shravankumar_Patel_Hibiscustech.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T181931Z&X-Amz-Expires=86400&X-Amz-Signature=5d36f07939ed8f503c9678d97049ac017fac83f3576701718b13ac6a92989281&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T18:19:31.676Z",
+    "notes": ""
+  },
+  {
+    "id": "app-1790099932785-oj0c8",
+    "jobId": "custom-1790092125978",
+    "jobTitle": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "candidate": {
+      "name": "Shravankumar Patel",
+      "email": "shravan.b.patel954@gmail.com",
+      "phone": "+918104479942",
+      "portfolio": "https://www.linkedin.com/in/shravan-kumar-patel/details/skills/",
+      "estimatedYears": 2,
+      "skills": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "AWS",
+        "S3",
+        "EC2",
+        "IAM",
+        "Docker",
+        "Kubernetes",
+        "Linux",
+        "Shell Scripting",
+        "MySQL",
+        "MongoDB",
+        "Git",
+        "GitHub"
+      ],
+      "education": [
+        "Bachelor of Science / BCA",
+        "Master of Computer Applications (MCA)"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 31,
+      "recommendation": "Low Fit",
+      "badgeColor": "red",
+      "scoreBreakdown": {
+        "skillsScore": 33,
+        "experienceScore": 50,
+        "keywordScore": 0
+      },
+      "matchedSkills": [
+        "Java"
+      ],
+      "missingSkills": [
+        "Selenium",
+        "TestNG",
+        "API Testing",
+        "Postman",
+        "CI/CD"
+      ],
+      "interviewQuestions": [
+        "Can you describe how you applied Java in your recent projects and how you optimized test/code performance?",
+        "This role requires hands-on experience with Selenium. How do you plan to quickly adapt and deliver in this area?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/custom-1790092125978/1790099931877-Shravankumar_Patel_AICines.docx",
+    "filename": "Shravankumar_Patel_AICines.docx",
+    "size": 11259,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/custom-1790092125978/1790099931877-Shravankumar_Patel_AICines.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T175852Z&X-Amz-Expires=86400&X-Amz-Signature=ab981e4d0fa00893fe34fbd293be368b62db659ba27349ea4cbde872b8461514&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T17:58:52.785Z",
+    "notes": ""
+  },
+  {
+    "id": "app-1790099495724-42x5w",
+    "jobId": "custom-1790092125978",
+    "jobTitle": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "candidate": {
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "phone": "+1 (555) 0192",
+      "portfolio": "https://linkedin.com/in/alex-johnson",
+      "estimatedYears": 4,
+      "skills": [
+        "Selenium",
+        "TestNG",
+        "Postman",
+        "Jira",
+        "Regression Testing",
+        "API Testing",
+        "QA Automation",
+        "Java",
+        "CI/CD",
+        "SQL",
+        "Git"
+      ],
+      "education": [
+        "Graduate / Professional Degree"
+      ]
+    },
+    "evaluation": {
+      "atsScore": 86,
+      "recommendation": "Strong Fit (Top Recommended)",
+      "badgeColor": "emerald",
+      "scoreBreakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "keywordScore": 30
+      },
+      "matchedSkills": [
+        "Selenium",
+        "Java",
+        "TestNG",
+        "API Testing",
+        "Postman",
+        "CI/CD"
+      ],
+      "missingSkills": [],
+      "interviewQuestions": [
+        "Can you describe how you applied Selenium in your recent projects and how you optimized test/code performance?",
+        "What best practices do you follow when collaborating with cross-functional teams using Java?",
+        "How do you approach deploying and managing artifacts in Cloud environments (like AWS S3) and setting up CI/CD automation?"
+      ]
+    },
+    "s3Key": "resumes/custom-1790092125978/1790099494911-Alex_Johnson_Resume.txt",
+    "filename": "Alex_Johnson_Resume.txt",
+    "size": 381,
+    "s3Uploaded": true,
+    "previewUrl": "https://dsccproj.s3.eu-north-1.amazonaws.com/resumes/custom-1790092125978/1790099494911-Alex_Johnson_Resume.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAQGYBQC6R5X5GZISH%2F20260922%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260922T175135Z&X-Amz-Expires=86400&X-Amz-Signature=5b8459193dd3c6f0b9d26497120c11113edee1e822715919b56675b777f3b973&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "appliedAt": "2026-09-22T17:51:35.724Z",
+    "notes": "Experienced QA Lead with test automation expertise"
+  }
+]

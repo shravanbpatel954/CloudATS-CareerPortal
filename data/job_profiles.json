@@ -1,0 +1,126 @@
+[
+  {
+    "id": "custom-1790092125978",
+    "title": "Lead QA Automation Engineer",
+    "department": "QA & Test Engineering",
+    "minExperienceYears": 4,
+    "requiredSkills": [
+      "Selenium",
+      "Java",
+      "TestNG",
+      "API Testing",
+      "Postman",
+      "CI/CD"
+    ],
+    "preferredSkills": [],
+    "description": "Lead QA Automation engineer responsible for designing test framework architecture and CI/CD quality gates.",
+    "isCustom": true,
+    "createdAt": "2026-09-22T15:48:45.978Z"
+  },
+  {
+    "id": "qa-automation-eng",
+    "title": "QA Automation Engineer",
+    "department": "Quality Assurance",
+    "minExperienceYears": 2,
+    "requiredSkills": [
+      "Selenium",
+      "TestNG",
+      "Java",
+      "API Testing",
+      "Postman",
+      "Manual Testing",
+      "Jira",
+      "Regression Testing",
+      "CI/CD",
+      "SQL"
+    ],
+    "preferredSkills": [
+      "Cucumber",
+      "BDD",
+      "Cypress",
+      "Playwright",
+      "Jenkins",
+      "Git"
+    ],
+    "description": "Looking for a QA Automation Engineer experienced in building test automation frameworks (Selenium/Java or Cypress), API testing with Postman/Rest Assured, bug lifecycle tracking in Jira, and continuous integration."
+  },
+  {
+    "id": "fullstack-dev",
+    "title": "Full Stack Web Developer",
+    "department": "Engineering",
+    "minExperienceYears": 2,
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "Express.js",
+      "SQL",
+      "REST API",
+      "Git",
+      "HTML5",
+      "CSS3"
+    ],
+    "preferredSkills": [
+      "AWS",
+      "Docker",
+      "PostgreSQL",
+      "MongoDB",
+      "Tailwind CSS",
+      "Next.js"
+    ],
+    "description": "Seeking a Full Stack Developer proficient in modern React, Node.js backend development, RESTful APIs, relational databases, version control with Git, and cloud deployments."
+  },
+  {
+    "id": "cloud-devops-eng",
+    "title": "Cloud & DevOps Specialist",
+    "department": "Cloud Infrastructure",
+    "minExperienceYears": 3,
+    "requiredSkills": [
+      "AWS",
+      "S3",
+      "EC2",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Linux",
+      "Terraform",
+      "Git",
+      "GitHub Actions"
+    ],
+    "preferredSkills": [
+      "Lambda",
+      "IAM",
+      "Jenkins",
+      "Python",
+      "Nginx",
+      "CloudWatch",
+      "Ansible"
+    ],
+    "description": "Responsible for designing, deploying, and maintaining highly available AWS cloud infrastructure, container orchestration with Kubernetes/Docker, automated CI/CD pipelines, and infrastructure as code using Terraform."
+  },
+  {
+    "id": "data-analyst-ml",
+    "title": "Data Analyst & ML Specialist",
+    "department": "Data & Analytics",
+    "minExperienceYears": 2,
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Data Analysis",
+      "Tableau",
+      "Scikit-Learn",
+      "Machine Learning"
+    ],
+    "preferredSkills": [
+      "Power BI",
+      "PyTorch",
+      "TensorFlow",
+      "PostgreSQL",
+      "Statistics"
+    ],
+    "description": "Seeking a Data Analyst to extract business insights, build predictive models, run SQL queries, clean datasets using Python/Pandas, and create dashboards with Tableau or Power BI."
+  }
+]
