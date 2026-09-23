@@ -1428,6 +1428,8 @@ app.post('/api/ai/analyze-document', async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
+});
+
 // -------------------------------------------------------------
 // Production Static Serving for Single-Server EC2 Deployment
 // -------------------------------------------------------------
